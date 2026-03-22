@@ -1,0 +1,1 @@
+{"short_name":"Airbnb Manager","name":"Airbnb Manager PWA","icons":[{"src":"icon-192x192.png","type":"image/png","sizes":"192x192"},{"src":"icon-512x512.png","type":"image/png","sizes":"512x512"}],"start_url":"/","background_color":"#f0f0f0","theme_color":"#ffffff","display":"standalone"}
